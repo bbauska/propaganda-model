@@ -1,5 +1,5 @@
 # propaganda-model
-A "Propaganda Model" Edward Herman &amp; Noam Chomsky Excerpted from Manufacturing Consent, 1988.
+A "Propaganda Model" Edward Herman &amp; Noam Chomsky Excerpts from Manufacturing Consent, 1988.
 
 A Propaganda Model
 Edward Herman & Noam Chomsky
